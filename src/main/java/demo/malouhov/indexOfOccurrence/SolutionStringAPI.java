@@ -1,4 +1,4 @@
-package demo.malouhov.IndexOfOccurrence;
+package demo.malouhov.indexOfOccurrence;
 
 /*
 Given two strings needle and haystack, return the index

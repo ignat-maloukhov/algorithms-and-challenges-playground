@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf8cd78f-73fb-4650-ae26-d3de881913e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/malouhov/IndexOfOccurrence/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/demo/malouhov/IndexOfOccurrence/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demo/malouhov/searchInsertPosition/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/demo/malouhov/searchInsertPosition/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/malouhov/IndexOfOccurrence/SolutionStringAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/malouhov/indexOfOccurrence/SolutionStringAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/malouhov/IndexOfOccurrence/SolutionStringAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demo/malouhov/indexOfOccurrence/SolutionStringAPITest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Dev projects/spring-cloud-microservices-demo&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -54,17 +58,18 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="demo.malouhov.searchInsertPosition" />
       <recent name="demo.malouhov.IndexOfOccurrence" />
       <recent name="demo.malouhov.removeElement" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.SolutionTest">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.malouhov.IndexOfOccurrence.Solution" />
+      <option name="MAIN_CLASS_NAME" value="demo.malouhov.searchInsertPosition.Solution" />
       <module name="algorithms-and-challenges-playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.malouhov.IndexOfOccurrence.*" />
+          <option name="PATTERN" value="demo.malouhov.searchInsertPosition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.malouhov.removeElement.SolutionStream" />
+    <configuration name="SolutionStringAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.malouhov.indexOfOccurrence.SolutionStringAPI" />
       <module name="algorithms-and-challenges-playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.malouhov.removeElement.*" />
+          <option name="PATTERN" value="demo.malouhov.indexOfOccurrence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,16 +90,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionStreamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionStringAPITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-challenges-playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.malouhov.removeElement.*" />
+          <option name="PATTERN" value="demo.malouhov.indexOfOccurrence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="demo.malouhov.removeElement" />
-      <option name="MAIN_CLASS_NAME" value="demo.malouhov.removeElement.SolutionStreamTest" />
+      <option name="PACKAGE_NAME" value="demo.malouhov.IndexOfOccurrence" />
+      <option name="MAIN_CLASS_NAME" value="demo.malouhov.indexOfOccurrence.SolutionStringAPITest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,28 +109,29 @@
       <module name="algorithms-and-challenges-playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.malouhov.IndexOfOccurrence.*" />
+          <option name="PATTERN" value="demo.malouhov.searchInsertPosition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="demo.malouhov.IndexOfOccurrence" />
-      <option name="MAIN_CLASS_NAME" value="demo.malouhov.IndexOfOccurrence.SolutionTest" />
+      <option name="PACKAGE_NAME" value="demo.malouhov.searchInsertPosition" />
+      <option name="MAIN_CLASS_NAME" value="demo.malouhov.searchInsertPosition.SolutionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTwoPointersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.searchInsertTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms-and-challenges-playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.malouhov.removeElement.*" />
+          <option name="PATTERN" value="demo.malouhov.searchInsertPosition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="demo.malouhov.removeElement" />
-      <option name="MAIN_CLASS_NAME" value="demo.malouhov.removeElement.SolutionTwoPointersTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="demo.malouhov.searchInsertPosition" />
+      <option name="MAIN_CLASS_NAME" value="demo.malouhov.searchInsertPosition.SolutionTest" />
+      <option name="METHOD_NAME" value="searchInsertTest1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,10 +139,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.searchInsertTest1" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="JUnit.SolutionStreamTest" />
-        <item itemvalue="JUnit.SolutionTwoPointersTest" />
-        <item itemvalue="Application.SolutionStream" />
+        <item itemvalue="JUnit.SolutionStringAPITest" />
+        <item itemvalue="Application.SolutionStringAPI" />
       </list>
     </recent_temporary>
   </component>

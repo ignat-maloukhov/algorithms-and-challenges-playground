@@ -1,4 +1,4 @@
-package demo.malouhov.IndexOfOccurrence;
+package demo.malouhov.indexOfOccurrence;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
