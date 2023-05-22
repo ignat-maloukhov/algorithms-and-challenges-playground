@@ -9,3 +9,5 @@
 8. [14 patterns to ace any coding interview question](https://dev.to/fahimulhaq/14-patterns-to-ace-any-coding-interview-question-d9g)</br>
 9. [10 логических задач с собеседований, которые заставят застрелиться](https://tproger.ru/articles/10-logicheskih-zadach-s-sobesedovanij-kotorye-zastavjat-zastrelitsja/)</br>
 10. [123 задачи с IT-собеседований с разбором решений](https://tproger.ru/articles/problems/)</br>
+11. [techiedelight.com: Структуры данных и проблемы с алгоритмами](https://www.techiedelight.com/ru/data-structures-and-algorithms-problems/)</br>
+12. [📝👍 Тесты на собеседовании: как к ним подготовиться и получить оффер](https://proglib.io/p/testy-na-sobesedovanii-kak-k-nim-podgotovitsya-i-poluchit-offer-2023-05-18)</br>
